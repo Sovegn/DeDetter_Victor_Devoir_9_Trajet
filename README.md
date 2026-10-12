@@ -9,14 +9,14 @@ Cette application permet de :
 - Se connecter
 - Proposer un trajet
 - Modifier / supprimer ses propres trajets
-- Consulter les détails d’un trajet (fenêtre modale)
+- Consulter les détails d’un trajet
 - Administrer les utilisateurs, agences et trajets (compte administrateur)
 
 ## Technologies utilisées
 
 - PHP 8.1+
 - Architecture MVC
-- MySQL / MariaDB
+- MySQL
 - Routeur : izniburak/router
 - Bootstrap 5 + Sass
 - PHPUnit
@@ -26,7 +26,7 @@ Cette application permet de :
 
 - PHP >= 8.1
 - Composer
-- MySQL ou MariaDB
+- MySQL
 - Node.js + npm (pour compiler le Sass)
 
 ## Installation
@@ -35,7 +35,7 @@ Cette application permet de :
 
 ```bash
 git clone <url-du-repo>
-cd touche-pas-klaxon
+cd DeDetter_Victor_Devoir_9_Trajet
 ```
 
 ### 2. Installer les dépendances PHP
