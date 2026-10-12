@@ -67,8 +67,8 @@ return [
 ### 5. Créer et alimenter la base de données
 
 Exécuter les scripts SQL dans l’ordre :
-1. `sql/schema.sql` (création des tables)
-2. `sql/seed.sql` (données de test)
+1. `sql/Script-create.sql` (création des tables)
+2. `sql/Script-data.sql` (données de test)
 
 ### 6. Compiler le CSS (Sass)
 
