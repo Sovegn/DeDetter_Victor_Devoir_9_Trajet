@@ -1,0 +1,1 @@
+{"version":2,"defects":{"AgenceTest::testCreateAgence":7,"AgenceTest::testDeleteAgence":8},"times":{"AgenceTest::testCreateAgence":0.221,"AgenceTest::testDeleteAgence":0.012,"TrajetTest::testCreateTrajet":0.019,"TrajetTest::testUpdateTrajet":0.005,"TrajetTest::testDeleteTrajet":0.004}}
